@@ -3,4 +3,5 @@
 .favorite-color{
 	background-color:pink;
 	color:hotpink;
+	border:2px solid green;
 }
